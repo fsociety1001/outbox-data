@@ -27,8 +27,8 @@
                 epoch_at_ref,
                 fast_forward=false,
                 last_time,
-                next_run,  % Time in EPOCH seconds until task's next execution
-                last_run,  % Time in EPOCH seconds when the task was last run
+                next_run,  
+                last_run, 
                 orig_when
                }).
 
